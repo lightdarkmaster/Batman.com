@@ -25,7 +25,10 @@
     position: relative;
     height: 40%;
     width: 100%;
-    border: 1px solid red;
+}
+
+.blockquote p {
+    font-size: 50px;
 }
 
 button {
